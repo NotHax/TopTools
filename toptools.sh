@@ -40,7 +40,7 @@ git="\033[1;92m"
 
 aut="\033[1;96m"
 
-echo $cyan"
+echo $cyan"Fuck You"
 
 echo "┏━┳┳┳━┳┳┓"
 
